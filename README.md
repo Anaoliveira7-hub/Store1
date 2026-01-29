@@ -5,3 +5,6 @@ A Store 1 é uma empresa de comércio eletrônico que começou recentemente a co
 # Objetivo
 
 Avaliar a qualidade dos dados, identificando inconsistências, valores ausentes e possíveis erros, garantindo que o conjunto de dados seja confiável e adequado para análise.
+
+---
+📎 Projeto desenvolvido para fins educacionais e prática em análise de dados.
